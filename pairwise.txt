@@ -1,0 +1,24 @@
+Alignment Score: 13.0
+target 0 ATCGATCGTCGATCG 15
+             0 |||||||||.||||| 15
+query  0 ATCGATCGTGGATCG 15
+            
+
+Alignment Score: 13.0
+target 0 ATCGATCGT-CGATCG 15
+             0 |||||||||--||||| 16
+query  0 ATCGATCGTG-GATCG 15
+            
+
+Alignment Score: 13.0
+target 0 ATCGATCGTC-GATCG 15
+             0 |||||||||--||||| 16
+query  0 ATCGATCGT-GGATCG 15
+            
+
+Alignment Score: 13.0
+target 0 ATCGATCGTCG-ATCG 15
+             0 |||||||||-|-|||| 16
+query  0 ATCGATCGT-GGATCG 15
+            
+

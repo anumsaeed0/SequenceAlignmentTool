@@ -1,0 +1,15 @@
+Percentage of non-gaps: 83.33333333333334 %
+Percentage of totally conserved columns: 44.44444444444444
+Entropy score: -6.365141682948128
+Sum of Pairs score (Blosum62): 87
+Sum of Pairs score (PAM250): 75
+Sum of Pairs score (PAM380): 102
+Star score (Blosum62): 186
+Star score (PAM250): 171
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+SEQUENCE_0      ---ATCGATCGTCGATCG	15
+SEQUENCE_1      ---ATCGATCGATCGTCG	15
+SEQUENCE_2      TCGATCGATCGATCG---	15
+                   ********       
