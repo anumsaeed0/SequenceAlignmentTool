@@ -1,4 +1,4 @@
-# Pairwise and Multiple Sequence Alignment Tool
+# Sequence Alignment Tool
 
 ## Introduction
 This tool provides a graphical user interface (GUI) for performing both pairwise and multiple sequence alignment (MSA) of biological sequences, such as DNA, RNA, and protein sequences. It is developed using Python and PyQt5 for the GUI components, and it utilizes Biopython for sequence alignment algorithms and Bioinformatics tools.
