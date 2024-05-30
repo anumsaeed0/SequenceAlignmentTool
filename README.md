@@ -56,10 +56,6 @@ This tool provides a graphical user interface (GUI) for performing both pairwise
     - View alignment results, including the phylogenetic tree and alignment quality metrics.
     - Save alignment results if needed.
 
-## Screenshots
-(Optional) Include screenshots of the application's interface, demonstrating its various features.
-
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
